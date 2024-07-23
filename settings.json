@@ -8,24 +8,24 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/moq_Fgf-Xr/",
     "classDetails": [
         {
-            "name": "애인이 있을 것 같은 상",
-            "title": "애인이 있을 것 같은 상",
-            "explain": "당신은 사람들에게 다정다감하며, 아름답고 멋진 외모로 사람들을 사로잡아 애인이 있을 상이다!",
+            "name": "애인이있을것같은상",
+            "title": "애인이있을것같은상",
+            "explain": "당신은사람들에게다정다감하며,아름답고멋진외모로사람들을사로잡아애인이있을상이다!",
             "celeb": "부럽다",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
-            "name": "애인이 곧 생길 상",
-            "title": "애인이 곧 생길 상",
+            "name": "애인이곧생길상",
+            "title": "애인이곧생길상",
             "explain": "말 그대로 애인이 곧 생길 상! 이 사람들은 못 사귀는게 아니라 안 사귀는 것!",
             "celeb": "부럽네요!",
             "color": "rgba(251, 176, 59, 1)"
         },
         {
             "name": "모솔",
-            "title": "모솔 상",
+            "title": "모솔상",
             "explain": "저런...",
-            "celeb": ".... 힘내세요",
+            "celeb": "....힘내세요",
             "color": "rgba(265, 100, 50, 1)"
         }
     ]
