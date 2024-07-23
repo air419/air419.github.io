@@ -8,9 +8,9 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/moq_Fgf-Xr/",
     "classDetails": [
         {
-            "name": "애인이있을것같은상",
+            "name": "애인이있을것같은상", 
             "title": "애인이있을것같은상",
-            "explain": "당신은사람들에게다정다감하며,아름답고멋진외모로사람들을사로잡아애인이있을상이다!",
+            "explain": "당신은 사람들에게 다정다감하며,아름답고 멋진외모로 사람들을 사로잡아 애인이 있을상이다!",
             "celeb": "부럽다",
             "color": "rgba(27, 175, 234, 1)"
         },
